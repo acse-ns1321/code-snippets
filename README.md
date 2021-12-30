@@ -17,7 +17,7 @@
       <li>Arrays </li>
       <li>Variable Sized Arrays </li>
     </ul>
-  <li>Strings</li>
+  <li>Strings &#9989;</li>
   <li>Classes</li>
   <li>STL</li>
   <li>Inheritance</li>

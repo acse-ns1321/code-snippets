@@ -2,11 +2,27 @@
 <html>
 <meta charset="UTF-8">
 <body>
+
+<h1>  Python Contents and Review </h1>
+<h3> Basics </h3>
+- Types
+- Lists
+- Dictionaries
+- Sets
+- Strings
+- Operators
+- Control Flow
+<h3> Numpy </h3>
+<h3> Pandas </h3>
+<h3> Scipy </h3>
+
+
+
+
 <h1>  C++ Contents and Review </h1>
 <h3> HackerRank Programs </h3>
-
 <ul>
-  <li>Introduction  &#9989;</li>
+  <li>Introduction </li>
   <ul>
       <li>Input Output</li>
       <li>Conditional Statements</li>
@@ -17,7 +33,7 @@
       <li>Arrays </li>
       <li>Variable Sized Arrays </li>
     </ul>
-  <li>Strings &#9989;</li>
+  <li>Strings </li>
   <li>Classes</li>
   <li>STL</li>
   <li>Inheritance</li>

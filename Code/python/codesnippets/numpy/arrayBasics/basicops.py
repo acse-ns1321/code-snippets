@@ -21,3 +21,7 @@ np.degrees(a)      # radians to degrees
 
 np.var(a)          # variance of array
 np.std(a, axis=1)  # standard deviation
+
+np.ceil(a)   # rounds to nearest upper int
+np.floor(a)  # rounds to nearest lower int
+np.round(a)  # rounds to neares int

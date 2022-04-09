@@ -1,19 +1,19 @@
 
-<<<<<<< HEAD
 <html>
 <meta charset="UTF-8">
 <body>
 
 <h1>  Python Contents and Review </h1>
 <h3> Basics </h3>
-- Types
-- Lists
-- Dictionaries
-- Sets
-- Strings
-- Operators
-- Control Flow
-<h3> Numpy </h3>
+  <ul>
+<li> Types</li>
+<li>Lists</li>
+<li> Dictionaries</li>
+<li> Sets </li>
+<li> Strings</li>
+<li> Operators</li>
+<li> Control Flow</li>
+<h3> Numpy </h3> 
 <h3> Pandas </h3>
 <h3> Scipy </h3>
 
@@ -45,5 +45,4 @@
 </body>
 </html>
 
-=======
->>>>>>> 6afbf5f107dc5045c4d0bb9474738cbfe981a4b8
+
